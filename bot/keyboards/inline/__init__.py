@@ -1,0 +1,1 @@
+from .main import inline_keyboards as inline_kb
